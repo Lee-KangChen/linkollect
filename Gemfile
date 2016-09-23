@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 gem 'bootstrap-sass', '~> 3.2.0.2'
 gem 'devise', '~> 3.4.0'
 gem 'acts_as_votable', '~> 0.10.0'
-
+gem 'simple_form', '~> 3.0.2'
 
 
 
